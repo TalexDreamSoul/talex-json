@@ -33,7 +33,6 @@ TalexJson is a library for parsing and generating JSON data.
 | **Streaming API** | **Yes** | No | Yes | No |
 | **Schema Validation** | **Built-in** | No | No | No |
 | **Binary Format Support** | **Yes** | No | No | No |
-| **Data Encoding Format** | **UTF-8** | UTF-8 | UTF-8 | UTF-8 |
 
 *Unix means Linux, macOS, FreeBSD, etc.*
 
