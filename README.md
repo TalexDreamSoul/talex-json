@@ -36,10 +36,15 @@ TalexJson is a library for parsing and generating JSON data.
 | **Data Encoding Format** | **UTF-8** | UTF-8 | UTF-8 | UTF-8 |
 
 *Unix means Linux, macOS, FreeBSD, etc.*
+
 *All times data is the average time of 1000000 times(with each restart machine, none other apps).
+
 *Compatibility means the compatibility of the library with other languages.
+
 *S-MIT means MIT license with some exceptions, in total that's Summary MIT License.
+
 *The comparison is based on the comparison of the library with the TalexFrame project, under this env: Windows11 (x64 latest 24.1.12) 64GB CPU:i913800HX (no GPU participation) C++11.
+
 *The committee of the library is the same as the TalexFrame project.
 
 > The performance of TalexJson is great higher than major popular JSON libraries among C++ libraries, and also it supports C.
