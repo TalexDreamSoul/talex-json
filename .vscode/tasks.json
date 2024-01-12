@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "label": "g++ build active file",
+      "command": "g++",
+      "args": [
+        "-g",
+        "E:\\Workspace\\CPlusPlus\\Projects\\TalexJson\\main.cpp",
+        "json/json.cpp",
+        "-o",
+        "${fileDirname}/${fileBasenameNoExtension}"
+      ],
+      "type": "shell",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ],
+  "version": "2.0.0"
+}
