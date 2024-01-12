@@ -12,7 +12,7 @@ TalexJson is a library for parsing and generating JSON data.
 
 |Library|TalexJson|nlohmann|jsoncpp|rapidjson|
 | --- | --- | --- | --- | --- |
-| **Parse** | **0.073s** | 0.236s | 0.157s | 0.045s |
+| **Parse** | **0.073s** | 0.236s | 0.157s | 0.145s |
 | **Generate** | **<1ms** | 20ms | 20ms | 45ms |
 | **Memory** | **68B** | 80B | >100B | >100B |
 | **Platforms** | Windows10+, Most Unix | **All** | Windows7+, Most Unix | **All** |
@@ -34,7 +34,7 @@ TalexJson is a library for parsing and generating JSON data.
 | **Schema Validation** | **Built-in** | No | No | No |
 | **Binary Format Support** | **Yes** | No | No | No |
 
-*Unix means Linux, macOS, FreeBSD, etc.*
+*Unix means Linux, macOS, FreeBSD, etc.
 
 *All times data is the average time of 1000000 times(with each restart machine, none other apps).
 
